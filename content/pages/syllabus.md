@@ -14,7 +14,7 @@ Research in sentence comprehension attempts to discover what representations are
 Readings
 --------
 
-There is no textbook for this class. For each class session, {{< resource_link e748c397-ad7e-47c2-71f4-06207c8f3819 "readings" >}} are assigned from a variety of book and journal sources.
+There is no textbook for this class. For each class session, {{% resource_link e748c397-ad7e-47c2-71f4-06207c8f3819 "readings" %}} are assigned from a variety of book and journal sources.
 
 Course Requirements
 -------------------

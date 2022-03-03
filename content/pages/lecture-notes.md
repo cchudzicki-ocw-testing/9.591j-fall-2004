@@ -49,7 +49,7 @@ The effects of plausibility, context and lexical frequency in on-line processing
 {{< tdopen >}}
 
 
-({{< resource_link d453c3c2-bd96-6f9b-d5be-564fd06331bb "PDF" >}})
+({{% resource_link d453c3c2-bd96-6f9b-d5be-564fd06331bb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,7 +77,7 @@ The Dependency Locality Theory
 {{< tdopen >}}
 
 
-({{< resource_link b1504ed7-d332-17b9-0b61-6c0de9b5272a "PDF" >}})
+({{% resource_link b1504ed7-d332-17b9-0b61-6c0de9b5272a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Guest Lecturer: Evelina Fedorenko
 {{< tdopen >}}
 
 
-({{< resource_link 52daaae4-33bb-bfc5-c438-a39db0e558cc "PDF" >}})
+({{% resource_link 52daaae4-33bb-bfc5-c438-a39db0e558cc "PDF" %}})
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ The Serial / Parallel Question
 {{< tdopen >}}
 
 
-({{< resource_link 6c01cbd3-6a1a-80cc-ddbe-9b1a09d19faf "PDF" >}})
+({{% resource_link 6c01cbd3-6a1a-80cc-ddbe-9b1a09d19faf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -153,7 +153,7 @@ Experience / Frequency and Ambiguity Resolution
 {{< tdopen >}}
 
 
-({{< resource_link 01d49a09-8a65-fee2-093a-59343fbc6dff "PDF" >}})
+({{% resource_link 01d49a09-8a65-fee2-093a-59343fbc6dff "PDF" %}})
 
 
 {{< tdclose >}}
@@ -181,7 +181,7 @@ Shift-reduce Parsing
 {{< tdopen >}}
 
 
-({{< resource_link dc7d9f17-0519-c969-1ac4-a251b60b9358 "PDF" >}})
+({{% resource_link dc7d9f17-0519-c969-1ac4-a251b60b9358 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -205,7 +205,7 @@ Referential and Contextual Issues in Sentence Comprehension
 {{< tdopen >}}
 
 
-({{< resource_link e118c932-6364-edcc-e8b3-e550fc3a3f54 "PDF" >}})
+({{% resource_link e118c932-6364-edcc-e8b3-e550fc3a3f54 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -229,7 +229,7 @@ Event-related Potentials (ERPs) and Other Brain-imaging Methods Investigating Se
 {{< tdopen >}}
 
 
-({{< resource_link ce801952-3884-cb26-263f-5d01415d1453 "PDF" >}})
+({{% resource_link ce801952-3884-cb26-263f-5d01415d1453 "PDF" %}})
 
 
 {{< tdclose >}}
